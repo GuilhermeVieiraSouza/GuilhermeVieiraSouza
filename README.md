@@ -1,12 +1,12 @@
-### Olá, Eu sou Guilherme Vieira 
-
+### Guilherme Vieira 
+ 
 [![gitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/GuilhermeVieiraSouza)
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gui_visouza?igsh=dmVzaTN3N2k5ZGpz)
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-vieira-de-souza-36b48030b/)
 
 ![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeVieiraSouza&show_icons=true&theme=dracula)
+    
+
 
 ## Tecnologias que eu uso 
 <div style="display: inline_block"><br/>
